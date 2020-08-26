@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "42793729478",
+    "firebase_url": "https://zaimy-ff26f.firebaseio.com",
+    "project_id": "zaimy-ff26f",
+    "storage_bucket": "zaimy-ff26f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42793729478:android:593cce8bbfbcd2d660c6c7",
+        "android_client_info": {
+          "package_name": "com.moreapps.ukhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42793729478-j0qq9edd5a8rb1odpt0n82v116ols0ah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moreapps.ukhelper",
+            "certificate_hash": "d6b5e96bef9659e0a2ccd586ee7399eff06970d2"
+          }
+        },
+        {
+          "client_id": "42793729478-0r6ei3ee9i025rf79tqlhugnk58dksr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxFCz5TOD0ZfvbQNc83FM9vo-6VhsFfy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42793729478-0r6ei3ee9i025rf79tqlhugnk58dksr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

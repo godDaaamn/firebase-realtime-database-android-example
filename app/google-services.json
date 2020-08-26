@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "687918852620",
+    "firebase_url": "https://fazlievsergej323-6d906.firebaseio.com",
+    "project_id": "fazlievsergej323-6d906",
+    "storage_bucket": "fazlievsergej323-6d906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687918852620:android:5b3b855d6c7059642b1c29",
+        "android_client_info": {
+          "package_name": "com.pillar.ind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687918852620-470fcb1fv49vqjda7vdkr1j9rthu4fld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiDlDDXlSJ3E6WuoOfkEvxJjFkLHFCS1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687918852620-470fcb1fv49vqjda7vdkr1j9rthu4fld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

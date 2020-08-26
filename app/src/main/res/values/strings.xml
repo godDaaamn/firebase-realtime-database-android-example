@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Онлайн займы</string>
+    <string name="fragment_all">Все</string>
+    <string name="fragment_without_percent">Под 0%</string>
+    <string name="fragment_without_call">Без звонка</string>
+    <string name="fragment_bad_history">Плохая к.и</string>
+    <string name="dialog_title">Условия пользования</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
